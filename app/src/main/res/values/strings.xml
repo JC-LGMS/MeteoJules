@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Météo Jules</string>
+    <string name="refresh">Actualiser</string>
+    <string name="today">Aujourd’hui</string>
+    <string name="week">Cette semaine</string>
+    <string name="advice">Conseil vestimentaire</string>
+    <string name="location">Paris</string>
+    <string name="temp_unit">°C</string>
+    <string name="loading">Chargement…</string>
+    <string name="error">Erreur lors du chargement de la météo.</string>
+    <string name="location_permission_denied">La géolocalisation est nécessaire pour afficher la météo près de chez vous. Météo de Paris affichée.</string>
+    <string name="location_unavailable">Position indisponible. Météo de Paris affichée.</string>
+    <string name="location_current">Position actuelle</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+</resources>

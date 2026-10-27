@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+local.properties
+
+# Signatures — ne pas committer les secrets
+keystore.properties
+*.keystore
+*.jks
+
+# Divers
+*.log
+captures/
+.DS_Store
+
+# Photos personnelles à la racine
+/WIN_*.jpg
+/WIN_*.png

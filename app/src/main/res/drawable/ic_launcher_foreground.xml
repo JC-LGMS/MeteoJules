@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Soleil (derrière le nuage) : centre (76, 40), rayon 10 -->
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M 66,40 a 10,10 0 1,0 20,0 a 10,10 0 1,0 -20,0" />
+    <!-- Nuage blanc : union de plusieurs cercles pour un aspect "fluffy" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 30,64 a 14,14 0 1,0 28,0 a 14,14 0 1,0 -28,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 46,60 a 12,12 0 1,0 24,0 a 12,12 0 1,0 -24,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 38,52 a 10,10 0 1,0 20,0 a 10,10 0 1,0 -20,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,56 a 8,8 0 1,0 16,0 a 8,8 0 1,0 -16,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 44,58 a 10,10 0 1,0 20,0 a 10,10 0 1,0 -20,0" />
+</vector>
